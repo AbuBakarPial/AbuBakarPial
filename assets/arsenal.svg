@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tech arsenal">
+<rect width="1200" height="240" fill="#0d1117"/>
+<g>
+<rect x="1" y="1" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M8 8 h18 M8 8 v18 M232 112 h-18 M232 112 v-18" stroke="#00ff66" stroke-width="2" fill="none"><animate attributeName="stroke-opacity" values="1;0.25;1" dur="2s" begin="0.0s" repeatCount="indefinite"/></path>
+<text x="22" y="52" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">FLUTTER</text>
+<text x="22" y="82" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">UI // APPS</text>
+<text x="218" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">01</text>
+</g>
+<g>
+<rect x="241" y="1" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M248 8 h18 M248 8 v18 M472 112 h-18 M472 112 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="262" y="52" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">DART</text>
+<text x="262" y="82" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">LANGUAGE</text>
+<text x="458" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">02</text>
+</g>
+<g>
+<rect x="481" y="1" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M488 8 h18 M488 8 v18 M712 112 h-18 M712 112 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="502" y="52" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">PYTHON</text>
+<text x="502" y="82" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">AUTOMATION</text>
+<text x="698" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">03</text>
+</g>
+<g>
+<rect x="721" y="1" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M728 8 h18 M728 8 v18 M952 112 h-18 M952 112 v-18" stroke="#00ff66" stroke-width="2" fill="none"><animate attributeName="stroke-opacity" values="1;0.25;1" dur="2s" begin="0.6000000000000001s" repeatCount="indefinite"/></path>
+<text x="742" y="52" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">LINUX</text>
+<text x="742" y="82" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">KALI // OPS</text>
+<text x="938" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">04</text>
+</g>
+<g>
+<rect x="961" y="1" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M968 8 h18 M968 8 v18 M1192 112 h-18 M1192 112 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="982" y="52" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">GIT</text>
+<text x="982" y="82" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">VERSION</text>
+<text x="1178" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">05</text>
+</g>
+<g>
+<rect x="1" y="121" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M8 128 h18 M8 128 v18 M232 232 h-18 M232 232 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="22" y="172" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">FIREBASE</text>
+<text x="22" y="202" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">BACKEND</text>
+<text x="218" y="150" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">06</text>
+</g>
+<g>
+<rect x="241" y="121" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M248 128 h18 M248 128 v18 M472 232 h-18 M472 232 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="262" y="172" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">NODE.JS</text>
+<text x="262" y="202" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">RUNTIME</text>
+<text x="458" y="150" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">07</text>
+</g>
+<g>
+<rect x="481" y="121" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M488 128 h18 M488 128 v18 M712 232 h-18 M712 232 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="502" y="172" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">MONGODB</text>
+<text x="502" y="202" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">DATABASE</text>
+<text x="698" y="150" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">08</text>
+</g>
+<g>
+<rect x="721" y="121" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M728 128 h18 M728 128 v18 M952 232 h-18 M952 232 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="742" y="172" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">MYSQL</text>
+<text x="742" y="202" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">DATABASE</text>
+<text x="938" y="150" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">09</text>
+</g>
+<g>
+<rect x="961" y="121" width="238" height="118" fill="#070b08" stroke="#1d2f22"/>
+<path d="M968 128 h18 M968 128 v18 M1192 232 h-18 M1192 232 v-18" stroke="#00ff66" stroke-width="2" fill="none"></path>
+<text x="982" y="172" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#e6f5ea">POSTMAN</text>
+<text x="982" y="202" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#7d9484">API // TEST</text>
+<text x="1178" y="150" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff66" text-anchor="end">10</text>
+</g>
+
+<rect x="0" y="240" width="1200" height="60" fill="#070b08"/>
+<clipPath id="tick"><rect x="0" y="240" width="1200" height="60"/></clipPath>
+<g clip-path="url(#tick)"><g transform="translate(0,276)"><g font-family="JetBrains Mono, monospace" font-size="14" letter-spacing="2" fill="#00ff66">
+<text x="0" y="0">FLUTTER /// DART /// PYTHON /// LINUX /// KALI /// GIT /// FIREBASE /// NODE.JS /// MONGODB /// MYSQL /// POSTMAN /// OSCP+ /// FLUTTER /// DART /// PYTHON /// LINUX /// KALI /// GIT /// FIREBASE /// NODE.JS /// MONGODB /// MYSQL /// POSTMAN /// OSCP+ /// 
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-960 0" dur="22s" repeatCount="indefinite"/>
+</text></g></g></g>
+<line x1="0" y1="240" x2="1200" y2="240" stroke="#1d2f22"/>
+</svg>
