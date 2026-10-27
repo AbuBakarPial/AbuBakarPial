@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320" role="img" aria-label="Terminal: whoami">
+<rect width="860" height="320" rx="10" fill="#050a06" stroke="#23402e" stroke-width="1.5"/>
+<rect width="860" height="44" rx="10" fill="#0a140c"/>
+<rect y="34" width="860" height="10" fill="#0a140c"/>
+<circle cx="28" cy="22" r="7" fill="#ff3355"/><circle cx="52" cy="22" r="7" fill="#ffb000"/><circle cx="76" cy="22" r="7" fill="#00ff66"/>
+<text x="430" y="27" font-family="JetBrains Mono, monospace" font-size="13" fill="#7d9484" text-anchor="middle">abu@kali: ~/profile</text>
+<line x1="0" y1="44" x2="860" y2="44" stroke="#1d2f22"/>
+<text x="28" y="62" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.2s" fill="freeze"/><tspan fill="#00ff66">abu@kali</tspan><tspan fill="#e6f5ea">:~$ </tspan><tspan fill="#e6f5ea">whoami</tspan></text>
+<text x="28" y="96" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.0s" fill="freeze"/><tspan fill="#7d9484">Md. Abu Bakar Siddique — DevSecOps Engineer, BD</tspan></text>
+<text x="28" y="130" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.8s" fill="freeze"/><tspan fill="#00ff66">abu@kali</tspan><tspan fill="#e6f5ea">:~$ </tspan><tspan fill="#e6f5ea">cat ~/stack.txt</tspan></text>
+<text x="28" y="164" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.6s" fill="freeze"/><tspan fill="#00e5ff">Flutter &#183; Dart &#183; Python &#183; Linux &#183; Git &#183; Firebase</tspan></text>
+<text x="28" y="198" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.4s" fill="freeze"/><tspan fill="#00ff66">abu@kali</tspan><tspan fill="#e6f5ea">:~$ </tspan><tspan fill="#e6f5ea">cat ~/now.md</tspan></text>
+<text x="28" y="232" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.2s" fill="freeze"/><tspan fill="#e6f5ea">OSCP+ 49-week vault — Phase 0: Foundations</tspan></text>
+<text x="28" y="266" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="5.0s" fill="freeze"/><tspan fill="#00ff66">abu@kali</tspan><tspan fill="#e6f5ea">:~$ </tspan><tspan fill="#e6f5ea">./try-harder</tspan></text>
+<text x="28" y="300" font-family="JetBrains Mono, monospace" font-size="16" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="5.8s" fill="freeze"/><tspan fill="#ffb000">[!] 70/100 to pass. No shortcuts. One week at a time.</tspan></text>
+<rect x="28" y="292" width="10" height="18" fill="#00ff66">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
